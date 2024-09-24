@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <one>
+     <parent>
+         <data name="key1" isTranslatable="true">
+             <value>Este es el valor de la clave1</value>
+         </data>
+         <data name="key1.1" isTranslatable="true">
+             <value>Este es el valor de key1.1</value>
+         </data>
+     </parent>
+   </one>
+   <two>
+     <parent>
+         <data name="key2" isTranslatable="true">
+             <value>Este es el valor de key2</value>
+         </data>
+     </parent>
+   </two>
+</root>
