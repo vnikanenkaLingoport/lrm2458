@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <one>
+     <parent>
+         <data name="key1" isTranslatable="true">
+             <value>This is the value for the key1</value>
+         </data>
+         <randomTag1 />
+         <someTag />
+         <data name="key1.1" isTranslatable="true">
+             <value>This is the value for the key1.1</value>
+         </data>
+         <anotherRandomTag />
+         <yetAnotherTag />
+         <randomTag3 />
+     </parent>
+     <yetAnotherTag />
+     <someOtherTag />
+     <randomTag4 />
+   </one>
+   <two>
+     <parent>
+         <data name="key2" isTranslatable="true">
+             <value>This is the value for the key2</value>
+         </data>
+         <randomTag2 />
+         <anotherTag />
+         <someRandomTag />
+     </parent>
+     <someOtherTag />
+     <completelyRandomTag />
+     <randomTag5 />
+   </two>
+   <completelyRandomTag />
+   <randomTag6 />
+   <someTag />
+   <anotherRandomTag />
+</root>
